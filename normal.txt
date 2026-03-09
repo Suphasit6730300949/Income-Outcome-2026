@@ -1,0 +1,2 @@
+2026-03-10 00:04:04 [INCOME]: 20000 | Description: Salary
+2026-03-10 00:04:27 [EXPENSE]: 100 | Description: Food
